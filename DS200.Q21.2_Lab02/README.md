@@ -1,6 +1,6 @@
-# DS200 Lab 02: Hotel Review Analysis with Apache Pig
+# DS200.Q21.2 Lab 02: Hotel Review Analysis with Apache Pig
 
-**Student: Duong Quoc Nhut - 23521132**
+**Student: Duong Quoc Nhut - ID: 23521132**
 
 This repository contains the solution for Lab 02, focusing on processing and analyzing a dataset of hotel reviews using **Apache Pig**.
 
