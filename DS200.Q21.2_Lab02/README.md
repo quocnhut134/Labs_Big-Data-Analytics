@@ -34,7 +34,7 @@ To execute these scripts locally, ensure your system meets the following require
 ### Option 1: Automated Execution (Recommended)
 You can run the entire analysis pipeline sequentially using a bash script. This script automatically cleans up old output directories and executes all tasks. 
 
-Open your terminal, navigate to the `DS200.Q21.1_Lab02` root directory, and run:
+Open your terminal, navigate to the `DS200.Q21.2_Lab02` root directory, and run:
 ```bash
 bash scripts/run_pig_local.sh
 ```
