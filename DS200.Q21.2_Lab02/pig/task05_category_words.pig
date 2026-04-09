@@ -1,5 +1,5 @@
-%default FILE_TU_SACH '../output/kq_bai1_tokens'
-%default OUT_TOP5_CHUNG '../output/kq_bai5_top5_tu_khoa'
+%default FILE_TU_SACH './output/kq_bai1_tokens'
+%default OUT_TOP5_CHUNG './output/kq_bai5_top5_tu_khoa'
 
 du_lieu_tu_vung = LOAD '$FILE_TU_SACH' USING PigStorage(';') AS (id:int, aspect:chararray, category:chararray, sentiment:chararray, word:chararray);
 

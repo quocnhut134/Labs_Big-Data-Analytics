@@ -1,9 +1,9 @@
-%default FILE_GOC '../data/hotel-review.csv'
-%default FILE_TU_SACH '../output/kq_bai1_tokens'
+%default FILE_GOC './data/hotel-review.csv'
+%default FILE_TU_SACH './output/kq_bai1_tokens'
 
-%default OUT_TU_PHOBIEN '../output/kq_bai2_tu_pho_bien'
-%default OUT_THE_LOAI '../output/kq_bai2_the_loai'
-%default OUT_KHIA_CANH '../output/kq_bai2_khia_canh'
+%default OUT_TU_PHOBIEN './output/kq_bai2_tu_pho_bien'
+%default OUT_THE_LOAI './output/kq_bai2_the_loai'
+%default OUT_KHIA_CANH './output/kq_bai2_khia_canh'
 
 bang_danh_gia = LOAD '$FILE_GOC' USING PigStorage(';') AS (id:int, comment:chararray, aspect:chararray, category:chararray, sentiment:chararray);
 du_lieu_tu_vung = LOAD '$FILE_TU_SACH' USING PigStorage(';') AS (id:int, aspect:chararray, category:chararray, sentiment:chararray, word:chararray);

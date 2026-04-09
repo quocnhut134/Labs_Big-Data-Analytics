@@ -1,6 +1,6 @@
-%default FILE_CSV '../data/hotel-review.csv'
-%default FILE_STOPWORDS '../data/stopwords.txt'
-%default THUMUC_DAURA '../output/kq_bai1_tokens'
+%default FILE_CSV './data/hotel-review.csv'
+%default FILE_STOPWORDS './data/stopwords.txt'
+%default THUMUC_DAURA './output/kq_bai1_tokens'
 
 raw_data = LOAD '$FILE_CSV' USING PigStorage(';') AS (id:int, comment:chararray, aspect:chararray, category:chararray, sentiment:chararray);
 danh_sach_tu_dung = LOAD '$FILE_STOPWORDS' AS (word:chararray);

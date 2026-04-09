@@ -1,0 +1,7 @@
+HOTEL	{(khách,1429),(sạn,1241),(giá,915),(vụ,862),(hài,719)}
+ROOMS	{(phòng,2217),(sạch,1268),(ốc,875),(tiện,781),(khách,600)}
+SERVICE	{(nhân,1269),(viên,1248),(vụ,1248),(khách,975),(phòng,823)}
+LOCATION	{(vị,583),(trí,582),(khách,443),(sạn,425),(tiện,421)}
+FACILITIES	{(tiện,120),(khách,98),(nghi,82),(đầy,82),(sạn,77)}
+FOOD&DRINKS	{(ăn,292),(sáng,246),(ngon,134),(bữa,131),(vụ,125)}
+ROOM_AMENITIES	{(phòng,863),(tiện,618),(đầy,568),(nghi,479),(sạch,477)}

@@ -1,6 +1,6 @@
-%default FILE_GOC '../data/hotel-review.csv'
-%default OUT_TIEU_CUC_NHAT '../output/kq_bai3_khia_canh_tieu_cuc'
-%default OUT_TICH_CUC_NHAT '../output/kq_bai3_khia_canh_tich_cuc'
+%default FILE_GOC './data/hotel-review.csv'
+%default OUT_TIEU_CUC_NHAT './output/kq_bai3_khia_canh_tieu_cuc'
+%default OUT_TICH_CUC_NHAT './output/kq_bai3_khia_canh_tich_cuc'
 
 bang_danh_gia = LOAD '$FILE_GOC' USING PigStorage(';') AS (id:int, comment:chararray, aspect:chararray, category:chararray, sentiment:chararray);
 
