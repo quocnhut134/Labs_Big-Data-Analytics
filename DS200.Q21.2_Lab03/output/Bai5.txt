@@ -1,0 +1,14 @@
+Nghe nghiep: Lawyer | Diem TB: 3.65
+Nghe nghiep: Salesperson | Diem TB: 3.65
+Nghe nghiep: Manager | Diem TB: 3.47
+Nghe nghiep: Nurse | Diem TB: 3.86
+Nghe nghiep: Teacher | Diem TB: 3.7
+Nghe nghiep: Programmer | Diem TB: 4.25
+Nghe nghiep: Accountant | Diem TB: 3.58
+Nghe nghiep: Artist | Diem TB: 3.73
+Nghe nghiep: Designer | Diem TB: 4.0
+Nghe nghiep: Journalist | Diem TB: 3.85
+Nghe nghiep: Doctor | Diem TB: 3.69
+Nghe nghiep: Engineer | Diem TB: 3.56
+Nghe nghiep: Consultant | Diem TB: 3.86
+Nghe nghiep: Student | Diem TB: 4.0

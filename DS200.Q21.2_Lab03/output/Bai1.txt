@@ -1,0 +1,10 @@
+Phim: No Country for Old Men (2007) | Diem TB: 3.89 | So luot: 18
+Phim: The Social Network (2010) | Diem TB: 3.86 | So luot: 7
+Phim: Mad Max: Fury Road (2015) | Diem TB: 3.47 | So luot: 18
+Phim: Lawrence of Arabia (1962) | Diem TB: 3.44 | So luot: 18
+Phim: The Terminator (1984) | Diem TB: 4.06 | So luot: 18
+Phim: The Lord of the Rings: The Fellowship of the Ring (2001) | Diem TB: 3.89 | So luot: 18
+Phim: Sunset Boulevard (1950) | Diem TB: 4.36 | So luot: 7
+Phim: Gladiator (2000) | Diem TB: 3.61 | So luot: 18
+
+--> Phim xuat sac nhat (>=5 danh gia): Sunset Boulevard (1950) (Diem: 4.36)
